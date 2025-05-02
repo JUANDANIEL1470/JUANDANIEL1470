@@ -84,12 +84,30 @@ _2024 - Actualidad_
 ## 📊 Estadísticas GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JUANDANIEL1470&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANDANIEL1470&layout=compact&langs_count=7&theme=radical"/>
+  
+### 🔥 Actividad Reciente
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JUANDANIEL1470&theme=react-dark&hide_border=true&area=true)](https://github.com/JUANDANIEL1470)
+
+### 📈 Estadísticas Principales
+<div style="display: flex; gap: 15px; justify-content: center;">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=JUANDANIEL1470&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide=issues&show=reviews,discussions_started,discussions_answered"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JUANDANIEL1470&layout=compact&langs_count=6&theme=radical&hide=html,jupyter%20notebook&exclude_repo=JUANDANIEL1470"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANDANIEL1470&theme=radical" alt="Streak Stats"/>
+### 🏆 Tendencias
+<div style="display: flex; gap: 15px; justify-content: center; margin-top: 20px;">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JUANDANIEL1470&theme=radical&date_format=j%20M%5B%20Y%5D" alt="Streak Stats"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=JUANDANIEL1470&theme=radical&no-frame=true&no-bg=true&margin-w=5&column=3&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies"/>
+</div>
+
+### 💻 Lenguajes Principales (MineHive)
+<div style="display: flex; justify-content: center;">
+  <img src="https://skillicons.dev/icons?i=php,css,js,mysql&theme=dark" alt="Tech Stack"/>
+</div>
+<div style="margin-top: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=JUANDANIEL1470&theme=radical&layout=compact&langs_count=4" alt="Weekly Coding Time"/>
+</div>
+
 </div>
 
 ## 📬 Contacto
