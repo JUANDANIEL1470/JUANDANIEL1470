@@ -38,7 +38,14 @@ UML
 
 </div>
 Áreas de Conocimiento
-Diagram
+pie
+    title Distribución de Habilidades
+    "Desarrollo Web" : 35
+    "Bases de Datos" : 20
+    "Aplicaciones Móviles" : 20
+    "Ciberseguridad" : 15
+    "Análisis de Software" : 10
+
 Code
 📌 Proyectos Destacados
 🍞 Panadería Delicias de Cataleya
