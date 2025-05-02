@@ -79,23 +79,24 @@ _2024 - Actualidad_
 
 ### Técnicas
 
-Desarrollo Web       █████████░ 90%
-Bases de Datos       ████████░░ 80%
-Aplicaciones Móviles ███░░░░░░░ 30%
-Ciberseguridad       ███░░░░░░░ 30%
+- **Desarrollo Web       █████████░ 90%
+- **Bases de Datos       ████████░░ 80%
+- **Aplicaciones Móviles ███░░░░░░░ 30%
+- **Ciberseguridad       ███░░░░░░░ 30%
 
 ### Blandas
 
-Trabajo en Equipo    ██████████ 100%
-Resolución Problemas ██████████ 100%
-Documentación        ██████████ 100%
-Liderazgo            ██████████ 100%
+- **Trabajo en Equipo    ██████████ 100%
+- **Resolución Problemas ██████████ 100%
+- **Documentación        ██████████ 100%
+- **Liderazgo            ██████████ 100%
 
 
 📬 Contacto
 <div align="center">
 ![-Conectemos_en_LinkedIn-blue](https://github.com/user-attachments/assets/bc693645-cc15-4f33-9dc5-91f3c03acf83)
 <svg xmlns="http://www.w3.org/2000/svg" width="207.5" height="28" role="img" aria-label="CONECTEMOS EN LINKEDIN"><title>CONECTEMOS EN LINKEDIN</title><g shape-rendering="crispEdges"><rect width="207.5" height="28" fill="#007ec6"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><text transform="scale(.1)" x="1037.5" y="175" textLength="1835" fill="#fff" font-weight="bold">CONECTEMOS EN LINKEDIN</text></g></svg>
+  
 ![<svg xmlns="http://www.w3.org/2000/svg" width="188.5" height="28" role="img" aria-label="ESCRÍBEME AL EMAIL"><title>ESCRÍBEME AL EMAIL</title><g shape-rendering="crispEdges"><rect width="188.5" height="28" fill="#e05d44"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="100"><image x="9" y="7" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkdtYWlsPC90aXRsZT48cGF0aCBkPSJNMjQgNS40NTd2MTMuOTA5YzAgLjkwNC0uNzMyIDEuNjM2LTEuNjM2IDEuNjM2aC0zLjgxOVYxMS43M0wxMiAxNi42NGwtNi41NDUtNC45MXY5LjI3M0gxLjYzNkExLjYzNiAxLjYzNiAwIDAgMSAwIDE5LjM2NlY1LjQ1N2MwLTIuMDIzIDIuMzA5LTMuMTc4IDMuOTI3LTEuOTY0TDUuNDU1IDQuNjQgMTIgOS41NDhsNi41NDUtNC45MSAxLjUyOC0xLjE0NUMyMS42OSAyLjI4IDI0IDMuNDM0IDI0IDUuNDU3eiIvPjwvc3ZnPg=="/><text transform="scale(.1)" x="1042.5" y="175" textLength="1445" fill="#fff" font-weight="bold">ESCRÍBEME AL EMAIL</text></g></svg>Uploading -Escríbeme_al_Email-red.svg…]()
 
 
