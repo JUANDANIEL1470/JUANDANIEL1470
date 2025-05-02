@@ -56,7 +56,7 @@
 **Sistema de Gestión de Información Web**  
 _2024 - Actualidad_
 
-[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-FF9800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JUANDANIEL1470/delicias-cataleya)
+[![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-FF9800?style=for-the-badge&logo=github&logoColor=white)](https://portjuandanield.web.app/breadware)
 
 > Sistema completo para gestión de panadería con análisis de requisitos y documentación según estándares de calidad.
 
