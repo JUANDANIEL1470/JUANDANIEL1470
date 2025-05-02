@@ -67,38 +67,26 @@ _2024 - Actualidad_
 - Desarrollo de Bases de Datos con SQL (SENA, 2023)
 - Modelado de Software con UML (SENA, 2023)
 
-## 🌟 Habilidades
+### 🌟 Habilidades
 
 <div align="center">
 
 ### 💻 Habilidades Técnicas
 
-<img src="https://chart.googleapis.com/chart?cht=bvg&chs=400x200&chd=t:90,80,30,30&chco=4CAF50,2196F3,FFC107,FF5722&chds=0,100&chxt=x,y&chxl=0:|Web|Bases Datos|Móvil|Seguridad|1:|0|25|50|75|100&chtt=Habilidades+Técnicas+(%)" alt="Habilidades Técnicas" width="400"/>
+![Habilidades Técnicas](https://quickchart.io/chart?c={type:'bar',data:{labels:['Web','Bases Datos','Móvil','Seguridad'],datasets:[{label:'Nivel (%)',data:[90,80,30,30],backgroundColor:['#4CAF50','#2196F3','#FFC107','#FF5722']}]},options:{scales:{y:{beginAtZero:true,max:100},title:{display:true,text:'Habilidades Técnicas (%)'}}})
 
 ### 🤝 Habilidades Blandas
 
-<img src="https://chart.googleapis.com/chart?cht=bs&chs=400x200&chd=t:100,100,100,100&chco=9C27B0&chds=0,100&chxt=x,y&chxl=0:|Equipo|Problemas|Documentación|Liderazgo|1:|0|25|50|75|100&chtt=Habilidades+Blandas+(%)" alt="Habilidades Blandas" width="400"/>
+![Habilidades Blandas](https://quickchart.io/chart?c={type:'horizontalBar',data:{labels:['Equipo','Resolución','Documentación','Liderazgo'],datasets:[{label:'Nivel (%)',data:[100,100,100,100],backgroundColor:'#9C27B0'}]},options:{scales:{x:{beginAtZero:true,max:100},title:{display:true,text:'Habilidades Blandas (%)'}}})
 
 ### 📊 Detalle Visual
 
-<table>
-  <tr>
-    <td><strong>Desarrollo Web</strong></td>
-    <td><img src="https://progress-bar.dev/90/?title=&width=200&color=22F7A3" alt="Web 90%"></td>
-  </tr>
-  <tr>
-    <td><strong>Bases de Datos</strong></td>
-    <td><img src="https://progress-bar.dev/80/?title=&width=200&color=4287f5" alt="DB 80%"></td>
-  </tr>
-  <tr>
-    <td><strong>Aplic. Móviles</strong></td>
-    <td><img src="https://progress-bar.dev/30/?title=&width=200&color=f5a742" alt="Mobile 30%"></td>
-  </tr>
-  <tr>
-    <td><strong>Ciberseguridad</strong></td>
-    <td><img src="https://progress-bar.dev/30/?title=&width=200&color=f54242" alt="Security 30%"></td>
-  </tr>
-</table>
+| Habilidad | Nivel |
+|-----------|-------|
+| **Desarrollo Web** | ![90%](https://geps.dev/progress/90?dangerColor=dddddd&warningColor=dddddd&successColor=22F7A3) |
+| **Bases de Datos** | ![80%](https://geps.dev/progress/80?dangerColor=dddddd&warningColor=dddddd&successColor=4287f5) |
+| **Aplic. Móviles** | ![30%](https://geps.dev/progress/30?dangerColor=dddddd&warningColor=dddddd&successColor=f5a742) |
+| **Ciberseguridad** | ![30%](https://geps.dev/progress/30?dangerColor=dddddd&warningColor=dddddd&successColor=f54242) |
 
 </div>
 
