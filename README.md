@@ -1,4 +1,5 @@
-![github-readme-stats vercel](https://github.com/user-attachments/assets/a5d0d611-631c-4e47-aee9-1f9cfd911ebe)![api](https://github.com/user-attachments/assets/a39a864b-1123-470e-9ff4-e97c896ec509)![-Escríbeme_al_Email-red](https://github.com/user-attachments/assets/ecb47b25-b7c7-4d6d-822d-1d23b5ba2287)# ¡Hola! 👋 Soy Juan Daniel Duarte
+![github-readme-stats vercel](https://github.com/user-attachments/assets/a5d0d611-631c-4e47-aee9-1f9cfd911ebe)![api](https://github.com/user-attachments/assets/a39a864b-1123-470e-9ff4-e97c896ec509)![-Escríbeme_al_Email-red](https://github.com/user-attachments/assets/ecb47b25-b7c7-4d6d-822d-1d23b5ba2287)
+# ¡Hola! 👋 Soy Juan Daniel Duarte
 
 ### Analista y Desarrollador de Software
 
@@ -94,6 +95,7 @@ _2024 - Actualidad_
 
 ### 📊 Mis Estadísticas GitHub
 
+<div align="center">
 ![Up
       <svg
         width="467"
@@ -458,8 +460,10 @@ _2024 - Actualidad_
       </svg>
     ploading github-readme-stats.vercel.svg…]()
 
+</div>
 
-
+<div align="center">
+  
 📬 Contacto
 <div align="center">
 ![-Conectemos_en_LinkedIn-blue](https://github.com/user-attachments/assets/bc693645-cc15-4f33-9dc5-91f3c03acf83)
