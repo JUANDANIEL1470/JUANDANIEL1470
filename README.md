@@ -67,17 +67,17 @@ _2024 - Actualidad_
 - Desarrollo de Bases de Datos con SQL (SENA, 2023)
 - Modelado de Software con UML (SENA, 2023)
 
-### 🌟 Habilidades
+## 🌟 Habilidades
 
 <div align="center">
 
 ### 💻 Habilidades Técnicas
 
-![Habilidades Técnicas](https://quickchart.io/chart?c={type:'bar',data:{labels:['Web','Bases Datos','Móvil','Seguridad'],datasets:[{label:'Nivel (%)',data:[90,80,30,30],backgroundColor:['#4CAF50','#2196F3','#FFC107','#FF5722']}]},options:{scales:{y:{beginAtZero:true,max:100},title:{display:true,text:'Habilidades Técnicas (%)'}}})
+![Habilidades Técnicas](https://quickchart.io/chart?c=%7Btype%3A%27bar%27%2Cdata%3A%7Blabels%3A%5B%27Web%27%2C%27Bases%20Datos%27%2C%27M%C3%B3vil%27%2C%27Seguridad%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Nivel%20(%25)%27%2Cdata%3A%5B90%2C80%2C30%2C30%5D%2CbackgroundColor%3A%5B%27%234CAF50%27%2C%27%232196F3%27%2C%27%23FFC107%27%2C%27%23FF5722%27%5D%7D%5D%7D%2Coptions%3A%7Bscales%3A%7By%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Habilidades%20T%C3%A9cnicas%20(%25)%27%7D%7D%7D)
 
 ### 🤝 Habilidades Blandas
 
-![Habilidades Blandas](https://quickchart.io/chart?c={type:'horizontalBar',data:{labels:['Equipo','Resolución','Documentación','Liderazgo'],datasets:[{label:'Nivel (%)',data:[100,100,100,100],backgroundColor:'#9C27B0'}]},options:{scales:{x:{beginAtZero:true,max:100},title:{display:true,text:'Habilidades Blandas (%)'}}})
+![Habilidades Blandas](https://quickchart.io/chart?c=%7Btype%3A%27horizontalBar%27%2Cdata%3A%7Blabels%3A%5B%27Equipo%27%2C%27Resoluci%C3%B3n%27%2C%27Documentaci%C3%B3n%27%2C%27Liderazgo%27%5D%2Cdatasets%3A%5B%7Blabel%3A%27Nivel%20(%25)%27%2Cdata%3A%5B100%2C100%2C100%2C100%5D%2CbackgroundColor%3A%27%239C27B0%27%7D%5D%7D%2Coptions%3A%7Bscales%3A%7Bx%3A%7BbeginAtZero%3Atrue%2Cmax%3A100%7D%7D%2Ctitle%3A%7Bdisplay%3Atrue%2Ctext%3A%27Habilidades%20Blandas%20(%25)%27%7D%7D%7D)
 
 ### 📊 Detalle Visual
 
