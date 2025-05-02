@@ -69,17 +69,38 @@ _2024 - Actualidad_
 
 ## 🌟 Habilidades
 
-### Técnicas
-- Desarrollo Web       █████████░ 90%
-- Bases de Datos       ████████░░ 80%
-- Aplicaciones Móviles ███░░░░░░░ 30%
-- Ciberseguridad       ███░░░░░░░ 30%
+<div align="center">
 
-### Blandas
-- Trabajo en Equipo    ██████████ 100%
-- Resolución Problemas ██████████ 100%
-- Documentación        ██████████ 100%
-- Liderazgo            ██████████ 100%
+### 💻 Habilidades Técnicas
+
+<img src="https://chart.googleapis.com/chart?cht=bvg&chs=400x200&chd=t:90,80,30,30&chco=4CAF50,2196F3,FFC107,FF5722&chds=0,100&chxt=x,y&chxl=0:|Web|Bases Datos|Móvil|Seguridad|1:|0|25|50|75|100&chtt=Habilidades+Técnicas+(%)" alt="Habilidades Técnicas" width="400"/>
+
+### 🤝 Habilidades Blandas
+
+<img src="https://chart.googleapis.com/chart?cht=bs&chs=400x200&chd=t:100,100,100,100&chco=9C27B0&chds=0,100&chxt=x,y&chxl=0:|Equipo|Problemas|Documentación|Liderazgo|1:|0|25|50|75|100&chtt=Habilidades+Blandas+(%)" alt="Habilidades Blandas" width="400"/>
+
+### 📊 Detalle Visual
+
+<table>
+  <tr>
+    <td><strong>Desarrollo Web</strong></td>
+    <td><img src="https://progress-bar.dev/90/?title=&width=200&color=22F7A3" alt="Web 90%"></td>
+  </tr>
+  <tr>
+    <td><strong>Bases de Datos</strong></td>
+    <td><img src="https://progress-bar.dev/80/?title=&width=200&color=4287f5" alt="DB 80%"></td>
+  </tr>
+  <tr>
+    <td><strong>Aplic. Móviles</strong></td>
+    <td><img src="https://progress-bar.dev/30/?title=&width=200&color=f5a742" alt="Mobile 30%"></td>
+  </tr>
+  <tr>
+    <td><strong>Ciberseguridad</strong></td>
+    <td><img src="https://progress-bar.dev/30/?title=&width=200&color=f54242" alt="Security 30%"></td>
+  </tr>
+</table>
+
+</div>
 
 
 ## 📊 Estadísticas GitHub
