@@ -4,7 +4,7 @@
 
 [![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firebase&logoColor=white)](https://portjuandanield.web.app/about)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/juandanield)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:elinadnauj@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:)
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F7A3&center=true&vCenter=true&width=435&lines=Apasionado+por+el+desarrollo;Especializado+en+soluciones+web;Enfocado+en+calidad+y+seguridad" alt="Typing SVG" />
@@ -12,8 +12,8 @@
 
 ## 👨‍💻 Sobre mí
 
-🔹 **Nombre:** Juan Daniel Duarte  
-🔹 **Edad:** 18 años  
+🔹 **Nombre:** Juan Daniel  
+🔹 **Edad:** 19 años  
 🔹 **Rol:** Analista y Desarrollador de Software  
 🔹 **Formación:** Tecnólogo en Análisis y Desarrollo de Software (@SENA)  
 🔹 **Pasiones:** Programación, Ciberseguridad, Innovación tecnológica  
