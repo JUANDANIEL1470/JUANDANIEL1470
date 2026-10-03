@@ -13,7 +13,7 @@
 ## 👨‍💻 Sobre mí
 
 🔹 **Nombre:** Juan Daniel  
-🔹 **Edad:** 19 años  
+🔹 **Edad:** 20 años  
 🔹 **Rol:** Analista y Desarrollador de Software  
 🔹 **Formación:** Tecnólogo en Análisis y Desarrollo de Software (@SENA)  
 🔹 **Pasiones:** Programación, Ciberseguridad, Innovación tecnológica  
@@ -47,7 +47,7 @@
 
 ### 🍞 Panadería Delicias de Cataleya
 **Sistema de Gestión de Información Web**  
-_2024 - Actualidad_
+_2024 - 2025_
 
 [![Ver Proyecto](https://img.shields.io/badge/Ver_Proyecto-FF9800?style=for-the-badge&logo=github&logoColor=white)](https://portjuandanield.web.app/breadware)
 
@@ -56,7 +56,7 @@ _2024 - Actualidad_
 ## 📚 Formación Académica
 
 - **Tecnólogo en Análisis y Desarrollo de Software**  
-  🎓 SENA | Oct 2023 - Jul 2025 (En progreso)
+  🎓 SENA | Oct 2023 - May 2026
 
 - **Bachiller Académico**  
   🎓 Institución Educativa General Enrique Caicedo | 2017-2022
@@ -64,6 +64,7 @@ _2024 - Actualidad_
 ## 🏆 Certificaciones
 
 - Apropiación de Conceptos en Ciberseguridad (SENA, 2023)
+- Curso avanzado de Excel (SENA, 2025)
 - Desarrollo de Bases de Datos con SQL (SENA, 2023)
 - Modelado de Software con UML (SENA, 2023)
 
